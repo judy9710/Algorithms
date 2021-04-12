@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -110,4 +110,3 @@ void main()
 	//printf(deleted key: %d\n", removeMin(&heap));
 	//printf(&heap);
 }
-*/
