@@ -40,7 +40,7 @@ void merge_sort(int list[], int left, int right)
 		merge(list, left, mid, right);
 	}
 }
-/*/
+
 void main()
 {
 	int list[MAX_SIZE];
@@ -63,4 +63,3 @@ void main()
 		printf("[%d]", list[i]);
 	}
 }
-*/
